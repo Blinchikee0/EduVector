@@ -49,4 +49,4 @@ EduVector leverages AI to create a tailored learning journey, helping students:
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/YourUsername/EduVector.git
+   git clone https://github.com/Blinchikee0/EduVector.git
